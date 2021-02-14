@@ -2,18 +2,18 @@
 - 👀 I’m interested in learn web development
 - 🌱 I’m currently learning:
 
-html ✔ 
+      html ✔ 
 
-css basic ✔ 
+      css basic ✔ 
 
-javascript ❌(in pogress)
+      javascript ❌(in pogress)
 
-advanced css ❌
+      advanced css ❌
 
-frameworks ❌
+      frameworks ❌
 
 pages developed for me: 
 
--dragongrafica.netlify.app
+    -dragongrafica.netlify.app
 
--lourdesfernandez.netlify.app (coming soon)
+    -lourdesfernandez.netlify.app (coming soon)
