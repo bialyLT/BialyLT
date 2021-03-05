@@ -6,9 +6,9 @@
 
       css basic ✔ 
 
-      javascript ❌(in pogress)
+      javascript basic ✔
 
-      advanced css ❌
+      advanced css ❌ (in progress)
 
       frameworks ❌
 
