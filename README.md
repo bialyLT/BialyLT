@@ -5,6 +5,8 @@
       html ✔ 
 
       css basic ✔ 
+      
+      Bootstrap ✔
 
       javascript basic ✔
 
