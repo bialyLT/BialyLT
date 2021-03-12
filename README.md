@@ -6,9 +6,9 @@
 
       css basic ✔ 
       
-      Bootstrap ✔
-
       javascript basic ✔
+      
+      Bootstrap ✔
 
       advanced css ❌ (in progress)
 
