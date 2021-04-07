@@ -1,18 +1,19 @@
-- 👋 Hi, I’m Liam Bialy
-- 👀 I’m interested in learn web development
+## Hii there 👋
+
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning:
 
       html ✔ 
 
-      css basic ✔ 
+      css  ✔ 
       
-      javascript basic ✔
+      js basic ✔
       
       Bootstrap ✔
 
-      advanced css ❌ (in progress)
-
-      frameworks ❌
+      React js❌ (in progress)
+      
+      Node js ❌
 
 pages developed for me: 
 
