@@ -17,7 +17,7 @@
 
 pages developed for me: 
 
-    -jueguitodecompu.netlify.app
+    -gamecito.netlify.app
     
     -dragongrafica.netlify.app
 
