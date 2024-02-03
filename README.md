@@ -16,7 +16,7 @@ I'm a passionate web developer with expertise in React and currently expanding m
 
 ### 📫 Let's Connect
 
-📧 Feel free to reach out to me at [liambialy2@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/liambialy/).
+📧 Feel free to reach out to me at liambialy2@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/liambialy/).
 
 ### ♟️ Chess Enthusiast
 
