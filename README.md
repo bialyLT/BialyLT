@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Liam]
+## 👋 Hello, I'm Liam
 
 I'm a passionate web developer with expertise in React and currently expanding my skills in Node.js. My journey in the world of coding is fueled by a love for creating seamless and user-friendly web experiences.
 
