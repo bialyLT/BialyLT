@@ -3,7 +3,7 @@
 
 <!-- Typing SVG headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+en+Sistemas+de+Computaci%C3%B3n;Programador+Fullstack+%C2%B7+Next.js+%2F+React+%2F+Django;Construyendo+apps+web+que+la+gente+usa" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Analista+en+Sistemas+de+Computaci%C3%B3n;Programador+Fullstack;Next.js+%C2%B7+React+%C2%B7+Django;Construyendo+apps+web+que+la+gente+usa" alt="typing" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Liam Bialy</h1>
