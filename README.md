@@ -7,18 +7,20 @@ Gracias por visitar mi perfil. Acá vas a encontrar proyectos de desarrollo web,
 
 ## 🚀 Proyectos destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bialyLT&repo=sistemasliam&theme=github_dark)](https://github.com/bialyLT/sistemasliam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bialyLT&repo=baf-pag&theme=github_dark)](https://github.com/bialyLT/baf-pag)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bialyLT&repo=cs-lineup-guide&theme=github_dark)](https://github.com/bialyLT/cs-lineup-guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bialyLT&repo=tpfinal&theme=github_dark)](https://github.com/bialyLT/tpfinal)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bialyLT&repo=sistema-anymate&theme=github_dark)](https://github.com/bialyLT/sistema-anymate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bialyLT&repo=gen-md&theme=github_dark)](https://github.com/bialyLT/gen-md)
+| Proyecto | ⭐ Estrellas | 🧠 Lenguaje |
+| --- | --- | --- |
+| [sistemasliam](https://github.com/bialyLT/sistemasliam) | ![stars](https://img.shields.io/github/stars/bialyLT/sistemasliam?style=flat-square&logo=github) | ![lang](https://img.shields.io/github/languages/top/bialyLT/sistemasliam?style=flat-square) |
+| [baf-pag](https://github.com/bialyLT/baf-pag) | ![stars](https://img.shields.io/github/stars/bialyLT/baf-pag?style=flat-square&logo=github) | ![lang](https://img.shields.io/github/languages/top/bialyLT/baf-pag?style=flat-square) |
+| [cs-lineup-guide](https://github.com/bialyLT/cs-lineup-guide) | ![stars](https://img.shields.io/github/stars/bialyLT/cs-lineup-guide?style=flat-square&logo=github) | ![lang](https://img.shields.io/github/languages/top/bialyLT/cs-lineup-guide?style=flat-square) |
+| [tpfinal](https://github.com/bialyLT/tpfinal) | ![stars](https://img.shields.io/github/stars/bialyLT/tpfinal?style=flat-square&logo=github) | ![lang](https://img.shields.io/github/languages/top/bialyLT/tpfinal?style=flat-square) |
+| [sistema-anymate](https://github.com/bialyLT/sistema-anymate) | ![stars](https://img.shields.io/github/stars/bialyLT/sistema-anymate?style=flat-square&logo=github) | ![lang](https://img.shields.io/github/languages/top/bialyLT/sistema-anymate?style=flat-square) |
+| [gen-md](https://github.com/bialyLT/gen-md) | ![stars](https://img.shields.io/github/stars/bialyLT/gen-md?style=flat-square&logo=github) | ![lang](https://img.shields.io/github/languages/top/bialyLT/gen-md?style=flat-square) |
 
 ## 📊 Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bialyLT&show_icons=true&theme=github_dark)](https://github.com/bialyLT)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bialyLT&layout=compact&theme=github_dark)](https://github.com/bialyLT)
+![Seguidores](https://img.shields.io/github/followers/bialyLT?style=for-the-badge&logo=github&color=blue)
+![Repos públicos](https://img.shields.io/github/repo-count/bialyLT?style=for-the-badge&logo=github&color=blue)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=bialyLT&style=for-the-badge)
 
 ## 📫 Contacto
 
